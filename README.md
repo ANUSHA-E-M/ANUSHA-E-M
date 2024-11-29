@@ -8,10 +8,11 @@ Welcome to my personal portfolio! Here you can find my projects, skills, and con
 - [Projects](#projects)
 - [Skills](#skills)
 - [Contact](#contact)
+![Portfolio Screenshot](images/screenshot.png)
 
 ## About Me
 
-Hi, I'm [Your Name], a [Your Profession] based in [Your Location]. I have a passion for [Your Interests/Field of Work]. This portfolio showcases my work and the skills I have acquired over the years.
+Data Scientist with 1.5 years of software development experience and strong proficiency in Python. Skilled exploratory data analysis and data visualization using tools like Pandas and Matplotlib. Eager to leverage analytical skills and technical expertise in a Data Science internship to drive insights and support data-driven decision-making
 
 ## Projects
 
@@ -34,16 +35,25 @@ Here are some of the projects that I have worked on:
 
 ## Skills
 
-- **Programming Languages**: [List your programming languages]
-- **Frameworks**: [List your frameworks]
-- **Tools and Technologies**: [List other tools you use]
-
+- **Programming Languages**: Python, SQL
+- **Frameworks**:
+  - Pandas (Data manipulation and analysis)
+  - NumPy (Numerical computing)
+  - Scikit-learn (Machine learning)
+-**Visualization Libraries**
+  - Matplotlib
+  - Seaborn: Built on Matplotlib
+- **Tools and Technologies**:
+  - Jupyter Notebooks
+  - Git: Essential for version control and collaboration.
+- **Databases**
+  - SQL
+    
 ## Contact
 
 Feel free to reach out to me at:
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](link-to-your-linkedin)
-- Twitter: [Your Twitter Handle](link-to-your-twitter)
+- Email: [your-email@example.com](anu.mahanthesh.2468@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/anusha-e-m)
 
 Thank you for visiting my portfolio!
 
