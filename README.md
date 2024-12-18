@@ -14,13 +14,32 @@ Detail-oriented Data Scientist with 1.5 years of software development experience
 ## Projects
 
 Here are some of the projects that I have worked on:
+### Project 1:**[Supermart Sales Analysis and Prediction]**(https://github.com/ANUSHA-E-M/Supermart-Sales-Analysis-and-Prediction)    
 
-### Project 1: [Project Title](link-to-project)
-Here's a format for adding your project to a GitHub portfolio, including a link to the external repository:  
+**Status:** In Progress (Expected Completion: 1/2025)  
 
----
+**Description:**  
+This project utilizes a dataset containing grocery sales information from a supermart to explore retail trends, engineer meaningful features, and build a machine learning model to predict sales and profitability. The insights aim to enhance decision-making for inventory management and consumer behavior analysis.
 
-## **OCD Patient Trends Analysis**  
+**Key Features:**  
+- **Data Cleaning and Preprocessing:**  
+  - Ensured high-quality retail data by handling missing values, outliers, and inconsistencies.  
+- **Feature Engineering:**  
+  - Applied advanced data manipulation techniques to transform raw data into actionable insights.  
+- **Predictive Modeling:**  
+  - Developed machine learning models to predict sales and profitability trends, enabling better business performance tracking and inventory optimization.  
+
+**Technologies Used:**  
+- **Python:** Data processing and analysis (libraries: Pandas, NumPy, Matplotlib, Seaborn)  
+- **Scikit-learn:** Machine learning model development and evaluation  
+- **Jupyter Notebook:** Interactive data exploration and visualization  
+
+**Objectives:**  
+- Analyze consumer behavior to identify purchasing patterns.  
+- Optimize inventory management strategies through predictive analytics.  
+- Enhance sales forecasting accuracy and profitability analysis.  
+
+### Project 2: **[OCD Patient Trends Analysis]**(https://github.com/ANUSHA-E-M/OCD-Patient-Analysis)   
 **Description:**  
 Analyzed a dataset of 1,500 OCD patients to uncover significant demographic, clinical, and treatment trends. This project aimed to provide insights into OCD treatment personalization and refine clinical protocols based on key findings.
 
@@ -53,39 +72,29 @@ Analyzed a dataset of 1,500 OCD patients to uncover significant demographic, cli
 - Provided actionable insights for personalized OCD treatments and clinical decision-making.  
 - Identified crucial demographic and clinical variables influencing OCD symptomology.  
 
-**Repository Link:**  
-[Explore the Full Project Here](https://github.com/ANUSHA-E-M/OCD-Patient-Analysis)  
-
----
-
-Replace `https://github.com/username/repository-name` with the actual URL of your project's repository. You can also include additional sections like a visual representation (charts or graphs) or a "Next Steps" section for future enhancements.
-
-### Project 2: [Project Title](link-to-project)
-- **Description**: Brief description of the project.
-- **Technologies Used**: List of technologies used.
-- **Live Demo**: [Link to Live Demo](link-to-live-demo)
-
-### Project 3: [Project Title](link-to-project)
-- **Description**: Brief description of the project.
-- **Technologies Used**: List of technologies used.
-- **Live Demo**: [Link to Live Demo](link-to-live-demo)
-
 ## Skills
+**Programming Languages:**  
+- Python  
 
-- **Programming Languages**: Python, SQL
-- **Frameworks**:
-  - Pandas (Data manipulation and analysis)
-  - NumPy (Numerical computing)
-  - Scikit-learn (Machine learning)
--**Visualization Libraries**
-  - Matplotlib
-  - Seaborn: Built on Matplotlib
-- **Tools and Technologies**:
-  - Jupyter Notebooks
-  - Git: Essential for version control and collaboration.
-- **Databases**
-  - SQL
-    
+**Frameworks:**  
+- **Pandas:** Data manipulation and analysis  
+- **NumPy:** Numerical computing  
+- **Scikit-learn:** Machine learning  
+
+**Statistical Analysis:**  
+- Descriptive statistics (mean, median, variance, standard deviation)  
+- Inferential statistics (hypothesis testing, confidence intervals, p-values)  
+- Correlation and regression analysis  
+- Time-series analysis for seasonal trends and forecasting  
+
+**Visualization Libraries:**  
+- **Matplotlib:** Basic plotting  
+- **Seaborn:** Advanced visualizations built on Matplotlib  
+
+**Tools and Technologies:**  
+- **Jupyter Notebooks:** Interactive coding and visualization  
+- **Git:** Version control and collaboration  
+ 
 ## Contact
 
 Feel free to reach out to me at:
@@ -94,17 +103,3 @@ Feel free to reach out to me at:
 
 Thank you for visiting my portfolio!
 
-<!--
-**ANUSHA-E-M/ANUSHA-E-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
