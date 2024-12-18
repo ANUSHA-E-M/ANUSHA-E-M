@@ -14,7 +14,7 @@ Detail-oriented Data Scientist with 1.5 years of software development experience
 ## Projects
 
 Here are some of the projects that I have worked on:
-### Project 1:**[Supermart Sales Analysis and Prediction]**(https://github.com/ANUSHA-E-M/Supermart-Sales-Analysis-and-Prediction)    
+### Project 1:[Supermart Sales Analysis and Prediction](https://github.com/ANUSHA-E-M/Supermart-Sales-Analysis-and-Prediction)    
 
 **Status:** In Progress (Expected Completion: 1/2025)  
 
@@ -39,7 +39,7 @@ This project utilizes a dataset containing grocery sales information from a supe
 - Optimize inventory management strategies through predictive analytics.  
 - Enhance sales forecasting accuracy and profitability analysis.  
 
-### Project 2: **[OCD Patient Trends Analysis]**(https://github.com/ANUSHA-E-M/OCD-Patient-Analysis)   
+### Project 2: [OCD Patient Trends Analysis](https://github.com/ANUSHA-E-M/OCD-Patient-Analysis)   
 **Description:**  
 Analyzed a dataset of 1,500 OCD patients to uncover significant demographic, clinical, and treatment trends. This project aimed to provide insights into OCD treatment personalization and refine clinical protocols based on key findings.
 
